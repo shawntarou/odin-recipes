@@ -23,6 +23,8 @@ a {
 
 img {
     margin-top: -30px;
+    border: 5px solid;
+    border-color: rgba(160, 102, 0);
 }
 
 li {
