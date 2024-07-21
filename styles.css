@@ -1,7 +1,36 @@
 h1 {
     font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(160, 102, 0);
+    padding: 20px;
+    margin: auto;
+    text-align: left;
+    color: aliceblue;
 }
 
-a {
+h2 {
+    background-color: rgba(160, 102, 0);
+    padding: 20px;
+    display: block;
+    color: aliceblue;
+    margin: auto;
+}
+
+a { 
     color: black;
+    margin: 15px auto;
+    display: inline-block;
+}
+
+img {
+    margin-top: -30px;
+}
+
+li {
+    margin: 20px;
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
 }
